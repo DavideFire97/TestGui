@@ -6,3 +6,4 @@
 - Commit 4 (fatto da remoto)
 - COMMIT5
 - Commit6 fatto da prova
+- Commit7 fatto da prova
